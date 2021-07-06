@@ -2212,12 +2212,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/PolyDIAMONDfinance"
+        href: "https://t.me/polyrhinos"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PolyDiamond2",
+        href: "https://twitter.com/PolyRhinos",
     },
 ];
 var MENU_HEIGHT = 64;
@@ -2794,8 +2794,8 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#f48337",
-    primaryBright: "#f48337",
+    primary: "#203a43",
+    primaryBright: "#203a43",
     primaryDark: "#FFFFFF",
     secondary: "#d47231",
     success: "#31D0AA",
