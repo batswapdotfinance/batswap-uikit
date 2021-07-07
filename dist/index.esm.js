@@ -2212,12 +2212,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/polyrhinos"
+        href: "https://t.me/batswapchat"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PolyRhinos",
+        href: "https://twitter.com/bat_swap",
     },
 ];
 var MENU_HEIGHT = 64;
